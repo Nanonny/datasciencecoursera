@@ -1,0 +1,12 @@
+name: Diamond
+title: Diamond
+username:
+account: nanon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2559183
+bundleId: 3379252
+url: https://nanon.shinyapps.io/Diamond/
+when: 1594453796.76182
+asMultiple: FALSE
+asStatic: FALSE
